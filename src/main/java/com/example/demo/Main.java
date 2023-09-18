@@ -15,6 +15,7 @@ import javafx.stage.Stage;
 public class Main extends Application {
     static boolean gameOver = false;
 
+
     public  void start(Stage primaryStage) {
         try {
 
